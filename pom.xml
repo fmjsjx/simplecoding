@@ -28,7 +28,7 @@
     <netty.version>4.1.29.Final</netty.version>
     <netty-tcnative.version>2.0.14.Final</netty-tcnative.version>
     <jackson2.version>2.9.5</jackson2.version>
-    <dom4j.version>2.1.0</dom4j.version>
+    <dom4j.version>2.1.1</dom4j.version>
     <groovy.version>2.5.2</groovy.version>
     <mongodb-driver.version>3.8.0</mongodb-driver.version>
     <mysql.version>5.1.46</mysql.version>
